@@ -28,6 +28,6 @@ Le Flow retourné par le dépôt est transformé en StateFlow à l’aide de la 
 11. Résultat final
 Après l’implémentation de DataStore, l’application mémorise la mise en page sélectionnée par l’utilisateur. Lorsque l’application est relancée, la préférence enregistrée est automatiquement appliquée.
 Captures de réalisation
-<img width="696" height="905" alt="Capture d&#39;écran 2026-04-10 214104" src="https://github.com/user-attachments/assets/79afe2c0-6f65-4a62-9979-21234100780f" />
+![WhatsApp Image 2026-04-10 at 22 14 38](https://github.com/user-attachments/assets/804511d3-28de-4b5a-929e-2c0ec17f579e)
 
 
